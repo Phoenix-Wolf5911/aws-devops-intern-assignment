@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# AWS DevOps Engineer Intern Assignment
 
 
@@ -44,3 +45,6 @@ Custom HTML page replacing default Nginx page, containing Name, College, Branch,
 
 http://13.232.104.98
 
+=======
+# aws-devops-intern-assignment
+>>>>>>> 163d85720892fa4a79653ef7253b7f93d34a22f3
