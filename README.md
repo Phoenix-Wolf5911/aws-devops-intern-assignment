@@ -43,7 +43,7 @@ Custom HTML page replacing default Nginx page, containing Name, College, Branch,
 
 \## Live URL
 
-http://13.232.104.98
+http://35.154.194.240
 
 =======
 # aws-devops-intern-assignment
