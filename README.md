@@ -45,6 +45,9 @@ Custom HTML page replacing default Nginx page, containing Name, College, Branch,
 
 http://35.154.194.240
 
+GitHub Repository: https://github.com/Phoenix-Wolf5911/aws-devops-intern-assignment
+EC2 Public IP (Elastic IP): 35.154.194.240
+
 =======
 # aws-devops-intern-assignment
 >>>>>>> 163d85720892fa4a79653ef7253b7f93d34a22f3
